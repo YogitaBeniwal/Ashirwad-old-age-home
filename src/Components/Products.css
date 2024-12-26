@@ -1,0 +1,22 @@
+.products {
+  padding: 4rem 0; /* Adjust padding as needed */
+  text-align: center;
+  margin: 386px auto;
+  background-color: white;
+}
+
+.products-header {
+  margin-bottom: 2rem; /* Add spacing below the header */
+}
+
+.products-header h1 {
+  font-size: 3rem; /* Adjust font size as needed */
+  margin-bottom: 1rem; /* Add spacing below the title */
+  color: #666;
+}
+
+.products-header p {
+  font-size: 1.2rem;
+  color: #666; /* Adjust color as needed */
+  text-align: center;
+}

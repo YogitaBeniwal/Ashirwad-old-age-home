@@ -1,0 +1,53 @@
+/* Footer.css */
+
+#footer {
+  background-color: lightslategray; /* Light background color */
+}
+
+.footer-top {
+  background-color: #34403d; /* Darker background for contact section */
+  color: white;
+  padding: 5px 0;
+}
+
+.footer-top h4 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.footer-top p {
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.footer-top a { /* Style for links in the contact section */
+  color: #ffffff; /* Example link color */
+  text-decoration: none;
+}
+
+.footer-top a:hover {
+  text-decoration: underline;
+}
+
+.copyright {
+  padding: 15px 0;
+  border-top: 1px solid #70787f; 
+  font-size: 12px;
+  background-color: lightslategray; /* Add background color to .copyright */
+  width: 100%;
+}
+
+.copyright {
+  text-align: center; 
+}
+
+/* Centering the content */
+#footer .container,
+.footer-top .container {
+  text-align: center; /* Center text within the container */
+}
+
+.footer-contact {
+  margin-right: 20px; /* Add right margin to Contact Us */
+}
